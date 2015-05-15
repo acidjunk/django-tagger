@@ -1,0 +1,5 @@
+include LICENSE
+include README.md
+recursive-include tagger/static *
+recursive-include tagger/templates *
+recursive-include docs *
